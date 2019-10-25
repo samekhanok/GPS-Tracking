@@ -8,6 +8,26 @@ GPS tracking technology has come so far in the past few years. At eelinktech Tra
 
 Our line of GPS tracking devices is extensive, but we're happy to help you find the best option for any person, pet, or vehicle that you want to track. Our experienced staff can match you with the ideal tracker for any situation. If you’re just curious about what GPS tracking technology can do, here are some ideas of why you may want to purchase a GPS tracker.
 
+##Trackers
+
+##What is a car tracker?
+
+Car trackers are small devices that indicate the location of vehicles. Through the GPS or radio frequency system, the tracker shows the location of the vehicle, whether stationary or moving, right on your smartphone or browser.
+
+##How does a vehicular tracker work?
+
+A vehicle tracking device can work by two types of technology:
+
+The tracker installed in the car issues a signal indicating the vehicle coordinates. These coordinates are displayed on a map, which can be accessed via the website or application by the driver, who can see the exact location of the vehicle. The tracker can work through two types of technology:
+
+Radiofrequency: This is the most advanced type of tracking, achieving vehicle location even indoors or indoors. It is suitable for those who live in large cities that have more interference and signal interruption, such as tunnels and buildings.
+
+GPS: This is the most commonly used form of vehicle tracking. It has wide coverage, working anywhere in the world. Its main disadvantage is that it suffers interference from physical barriers, that is, it does not usually work indoors.
+
+Car trackers are very useful, as well as giving you the security of always knowing where your vehicle is (you'll never lose your car in the parking lot), you can control the mileage traveled, and some models even have lockers or buttons. panic attacks that can be triggered in emergencies.
+
+Here at eelinktech.com you will find the best brand trackers such as Positron and Coban. In addition to trackers, you will find alarm and switchblade. Always with the lowest prices and the best payment terms.
+
 #For Home
 
 Do you take care of an elderly person? If you are responsible for the well-being of someone that you love, GPS tracking is the ideal solution to keeping tabs on that person while you are at work or away. You can set up a geo-fence, get alerts when your loved once crosses that fence, or simply know where the person you're taking care of is at all times. Even if you're not the caretaker of an elderly person, GPS tracking technology can also benefit you in other ways - like helping you keep a close eye on your business vehicles.
