@@ -8,13 +8,13 @@ GPS tracking technology has come so far in the past few years. At eelinktech Tra
 
 Our line of GPS tracking devices is extensive, but we're happy to help you find the best option for any person, pet, or vehicle that you want to track. Our experienced staff can match you with the ideal tracker for any situation. If you’re just curious about what GPS tracking technology can do, here are some ideas of why you may want to purchase a GPS tracker.
 
-##Trackers
+# Trackers
 
-##What is a car tracker?
+## What is a car tracker?
 
 Car trackers are small devices that indicate the location of vehicles. Through the GPS or radio frequency system, the tracker shows the location of the vehicle, whether stationary or moving, right on your smartphone or browser.
 
-##How does a vehicular tracker work?
+# How does a vehicular tracker work?
 
 A vehicle tracking device can work by two types of technology:
 
